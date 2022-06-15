@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "21956223765",
+    "project_id": "tresorie-d8c94",
+    "storage_bucket": "tresorie-d8c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21956223765:android:40a30900a1d13ce4077f1c",
+        "android_client_info": {
+          "package_name": "com.adnanturgay.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLVV4kQI1IKT05KlvUW3Y2jo3HpGdHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21956223765:android:cfa62ba10e2f0cb5077f1c",
+        "android_client_info": {
+          "package_name": "com.adnanturgay.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLVV4kQI1IKT05KlvUW3Y2jo3HpGdHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21956223765:android:1bb87e34b8783547077f1c",
+        "android_client_info": {
+          "package_name": "com.adnanturgay.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLVV4kQI1IKT05KlvUW3Y2jo3HpGdHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21956223765:android:073c029975d88952077f1c",
+        "android_client_info": {
+          "package_name": "com.example.sellers_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21956223765-c6ie32oihrgvt3k0ae52972s7hsr3r3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellers_food_app",
+            "certificate_hash": "434f12d0d6320ec33ca7a224b23c8d73712d9ae4"
+          }
+        },
+        {
+          "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLVV4kQI1IKT05KlvUW3Y2jo3HpGdHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21956223765-nlrfselbpp9jpjmoh9v3le441p6si0al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
